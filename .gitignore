@@ -1,0 +1,38 @@
+# Archivos de entorno y credenciales (¡Muy importante!)
+.env
+*.env
+secret.json
+credentials.json
+*.pfx
+*.pem
+
+# Archivos de configuración de IDEs y editores
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# SQL Server Data Tools (SSDT) / Visual Studio / SSIS / SSRS
+*.dbproj.user
+*.publish.xml
+*.sqlplan
+*.ispac
+bin/
+obj/
+*.log
+*.tmp
+
+# Respaldos de bases de datos y dumps locales
+*.bak
+*.dmp
+*.sql.gz
+*.tar.gz
+*.sqlite
+*.sqlite3
+*.db
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
